@@ -96,10 +96,15 @@ Concluded with interpretation of why Stacking generalizes best for this regressi
 📊 Result Summary
 
 Model	Concept	Test RMSE	Rank
+
 Decision Tree Regressor	Baseline (non-linear, high variance)	115.2	5
+
 Linear Regression	Baseline (linear, high bias)	108.5	4
+
 Bagging Regressor	Variance reduction via bootstrapping	89.7	3
+
 Gradient Boosting Regressor	Sequential bias correction	76.4	2
+
 Stacking Regressor (Ridge meta)	Combines diverse learners for optimal trade-off	71.3	1 🥇
 
 
