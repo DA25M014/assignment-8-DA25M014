@@ -6,11 +6,6 @@ Name: Jigarahemad K Shaikh  Roll Number: DA25M014
 
 Dataset: 🔗 [UCI Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 
-OR
-
-📁 Data Folder: All input datasets required for this assignment are stored in the “Data” folder within the repository.
-
-
 Title: Ensemble Learning for Complex Regression Modeling on Bike Share Data
 
 Objective: This assignment will challenge the solver to apply and compare three primary ensemble techniques (Bagging, Boosting, and Stacking) to solve a complex, time-series-based regression problem. You will demonstrate your understanding of how these methods address model variance and bias, and how a diverse stack of models can yield superior performance to any single model.
